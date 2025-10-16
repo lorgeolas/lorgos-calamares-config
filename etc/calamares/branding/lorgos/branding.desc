@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName: lorgeolas 
+componentName: lorgos 
 
 
 ### WELCOME / OVERALL WORDING
@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         lorgeolas 
-    shortProductName:    lorgeolas 
-    version:             3.0
-    shortVersion:        3.0
-    versionedName:       lorgeolas 
-    shortVersionedName:  lorgeolas 
-    bootloaderEntryName: lorgeolas 
+    productName:         lorgos 
+    shortProductName:    lorgos 
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       lorgos 
+    shortVersionedName:  lorgos 
+    bootloaderEntryName: lorgos 
 
 # These images are loaded from the branding module directory.
 #
